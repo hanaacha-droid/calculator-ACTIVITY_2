@@ -10,7 +10,7 @@ Activity name → all lowercase, use a dash (-) instead of spaces. Last name →
 
 Examples:
 
-atm-simulator [AMPATIN] 
+calculator [AMPATIN] 
 fix-user-login [SMITH]
 
 ✅ This ensures PRs are consistent and easy to track.
